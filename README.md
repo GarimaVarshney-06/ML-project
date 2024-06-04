@@ -4,3 +4,6 @@
 1. new environment
 2. setup.py
 3. requirements.txt
+
+
+## after the setup we do logger and exception 

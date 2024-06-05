@@ -7,3 +7,5 @@
 ## after the setup we do logger and exception 
 ## complete the EDA and model training
 ## data ingestion is complete
+## data transformation is complete
+## model training is complete

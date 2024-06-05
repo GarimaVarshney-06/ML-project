@@ -47,7 +47,7 @@ class ModelTrainer:
                 "AdaBoost Regressor": AdaBoostRegressor(),
             }
             
-            ### this is after making the  model_report
+            ### this is hyperparameter
             params={
                 "Decision Tree": {
                     'criterion':['squared_error', 'friedman_mse', 'absolute_error', 'poisson'],
